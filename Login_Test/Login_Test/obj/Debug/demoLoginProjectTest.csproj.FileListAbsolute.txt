@@ -1,0 +1,16 @@
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\demoLoginProjectTest.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\demoLoginProjectTest.pdb
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\WebDriver.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\obj\Debug\demoLoginProjectTest.csproj.AssemblyReference.cache
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\obj\Debug\demoLoginProjectTest.csproj.CoreCompileInputs.cache
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\obj\Debug\demoLoginProjectTest.csproj.CopyComplete
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\obj\Debug\demoLoginProjectTest.dll
+D:\SQT\demoLoginProjectTest\demoLoginProjectTest\obj\Debug\demoLoginProjectTest.pdb
